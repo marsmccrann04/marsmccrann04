@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a 2nd year Computer Technology student who likes to make games. Even though I suck at math. I also make websites at the most basic level. Even though I suck at CSS styling.
 
 <!--
 **marsmccrann04/marsmccrann04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
